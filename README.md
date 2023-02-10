@@ -1,4 +1,4 @@
-# LeetCode-Problems
+# LeetCode-Problems :desktop_computer:
 This repo consists LeetCode problems' solutions
 
 | #  | title | language | difficulty |
