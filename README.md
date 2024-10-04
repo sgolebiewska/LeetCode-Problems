@@ -3,6 +3,7 @@ This repo consists LeetCode problems' solutions
 
 | #  | title | language | difficulty |
 | ------------- | ------------- | ------------- | ------------- | 
+| 1934  | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/)  | PostgreSQL | Medium |
 | 1757  | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/)  | MySQL | Easy |
 | 1683  | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/)  | PostgreSQL | Easy |
 | 1148  | [Article Views I](https://leetcode.com/problems/article-views-i/description/)  | PostgreSQL | Easy |
