@@ -10,3 +10,4 @@ This repo consists LeetCode problems' solutions
 | 620  | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)  | PostgreSQL | Easy |
 | 595  | [Big Countries](https://leetcode.com/problems/big-countries/description/)  | PostgreSQL | Easy |
 | 584  | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)  | PostgreSQL | Easy |
+ 
